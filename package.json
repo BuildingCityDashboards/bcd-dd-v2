@@ -20,7 +20,7 @@
     "jquery": ">=3.5.0",
     "leaflet": "^1.5.1",
     "leaflet-spin": "^1.1.0",
-    "lodash": ">=4.17.19",
+    "lodash": ">=4.17.21",
     "moment": "^2.24.0",
     "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
